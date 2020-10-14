@@ -1,0 +1,4 @@
+name = "WorkWithExcelFiles"
+uuid = "bf8b4587-f8e6-4bb2-a487-75641d293e9d"
+authors = ["Mohammed Alshahrani <mmogib@gmail.com>"]
+version = "0.1.0"

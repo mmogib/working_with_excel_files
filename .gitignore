@@ -26,4 +26,5 @@ Manifest.toml
 
 
 # data files
-WorkWithExcelFiles/
+WorkWithExcelFiles/csv_files/
+WorkWithExcelFiles/teachers/

@@ -1,0 +1,221 @@
+﻿COURSE,SEC,ACTIVITY,CRN,COURSE NAME,INSTRUCTOR,username,email,DAY,TIME,LOC
+AS201,1,LEC,11880,Financial Mathematics,ALI DUMAN,aliduman,aliduman@kfupm.edu.sa,UTR,1100-1150,3-100
+AS322,1,LEC,14437,Numerical Methods for Actuarie,HATTAN TAWFIQ,hattan,hattan@kfupm.edu.sa,UT,1300-1350,3-104
+AS322,1,LAB,14437,Numerical Methods for Actuarie,HATTAN TAWFIQ,hattan,hattan@kfupm.edu.sa,R,1300-1450,-
+AS380,1,LEC,14271,Actuarial Contingencies I,MOHAMMAD OMAR,omarmh,omarmh@kfupm.edu.sa,UT,0900-0950,6-201
+AS380,1,LAB,14271,Actuarial Contingencies I,MOHAMMAD OMAR,omarmh,omarmh@kfupm.edu.sa,R,0900-1050,-
+AS389,1,LAB,14272,Actuarial Sci. Problem Lab II,NASIR ABBAS,nasirabbas,nasirabbas@kfupm.edu.sa,W,0900-1050,-
+AS483,1,LEC,11884,Actuarial Risk Theory and Credibility,MOHAMMAD OMAR,omarmh,omarmh@kfupm.edu.sa,UTR,0700-0750,6-211
+MATH101,1,LEC,10724,Calculus I,"Shahbaz, A.",shahbazahmad,shahbazahmad@kfupm.edu.sa,MW,0830-0945,59-2023
+MATH101,1,REC,10724,Calculus I,BERIMI SAID,berrimi,berrimi@kfupm.edu.sa,R,1100-1150,59-1014
+MATH101,2,LEC,10729,Calculus I,BERIMI SAID,berrimi,berrimi@kfupm.edu.sa,UTR,0900-0950,59-2022
+MATH101,2,REC,10729,Calculus I,BERIMI SAID,berrimi,berrimi@kfupm.edu.sa,W,0900-0950,59-1007
+MATH101,3,LEC,12458,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,UTR,1000-1050,63-331
+MATH101,3,REC,12458,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,M,1000-1050,6-106
+MATH101,4,REC,11162,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,M,1100-1150,63-223
+MATH101,4,LEC,11162,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,UTR,1000-1050,63-331
+MATH101,5,REC,12466,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,M,0900-0950,6-257
+MATH101,5,LEC,12466,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,UTR,1100-1150,63-331
+MATH101,6,REC,10719,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,W,0700-0750,59-2024
+MATH101,6,LEC,10719,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,UTR,0700-0750,59-1001
+MATH101,7,REC,10726,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,M,0800-0850,59-1016
+MATH101,7,LEC,10726,Calculus I,KHALID AL-SHAMMARI,kshamari,kshamari@kfupm.edu.sa,UTR,1100-1150,63-331
+MATH101,8,LEC,10725,Calculus I,A ELGHANMI,aelghanmi,aelghanmi@kfupm.edu.sa,UTR,1000-1050,59-1010
+MATH101,8,REC,10725,Calculus I,A ELGHANMI,aelghanmi,aelghanmi@kfupm.edu.sa,W,1000-1050,59-1007
+MATH101,9,LEC,10731,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,UTR,1000-1050,23-011
+MATH101,9,REC,10731,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,M,1000-1050,59-1011
+MATH101,10,LEC,10737,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,UTR,1100-1150,63-362
+MATH101,10,REC,10737,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,M,1100-1150,59-1011
+MATH101,11,LEC,10730,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,UTR,0700-0750,59-1001
+MATH101,11,REC,10730,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,W,0900-0950,59-1009
+MATH101,12,REC,12463,Calculus I,BADER AL-HUMIDI,humaidib,humaidib@kfupm.edu.sa,W,1200-1250,63-225
+MATH101,12,LEC,12463,Calculus I,BADER AL-HUMIDI,humaidib,humaidib@kfupm.edu.sa,UTR,1200-1250,63-325
+MATH101,13,REC,11101,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,W,1300-1350,6-201
+MATH101,13,LEC,11101,Calculus I,"Shahbaz, A.",shahbazahmad,shahbazahmad@kfupm.edu.sa,UTR,0700-0750,59-1001
+MATH101,14,REC,10735,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,W,1100-1150,6-201
+MATH101,14,LEC,10735,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,UTR,0800-0850,63-331
+MATH101,15,REC,10732,Calculus I,HUSAIN AL-ATTAS,halattas,halattas@kfupm.edu.sa,M,1000-1050,59-1007
+MATH101,15,LEC,10732,Calculus I,HUSAIN AL-ATTAS,halattas,halattas@kfupm.edu.sa,UTR,1000-1050,6-105
+MATH101,16,REC,10723,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,M,0800-0850,59-1009
+MATH101,16,LEC,10723,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,UTR,1000-1050,23-011
+MATH101,17,LEC,10728,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,UTR,1100-1150,63-362
+MATH101,17,REC,10728,Calculus I,SAEED AL-GARNI,garnis,garnis@kfupm.edu.sa,M,0900-0950,59-2015
+MATH101,18,REC,10733,Calculus I,K FURATI,kmfurati,kmfurati@kfupm.edu.sa,R,0900-0950,59-1013
+MATH101,18,LEC,10733,Calculus I,K FURATI,kmfurati,kmfurati@kfupm.edu.sa,MW,1000-1115,59-1001
+MATH101,19,REC,12460,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,W,1200-1250,59-1016
+MATH101,19,LEC,12460,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,UTR,0800-0850,63-331
+MATH101,20,REC,11102,Calculus I,FAISAL SUWAYYID,faisal.suwayyid,faisal.suwayyid@kfupm.edu.sa,W,0800-0850,6-103
+MATH101,20,LEC,11102,Calculus I,SHAHBAZ JINNAH,shahbazahmad,shahbazahmad@kfupm.edu.sa,UTR,0800-0850,63-331
+MATH101,21,LEC,10720,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,UTR,0900-0950,63-331
+MATH101,21,REC,10720,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,M,0800-0850,59-1007
+MATH101,22,LEC,11343,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,UTR,0900-0950,63-331
+MATH101,22,REC,11343,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,M,0900-0950,59-1007
+MATH101,23,REC,11141,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,M,1000-1050,6-105
+MATH101,23,LEC,11141,Calculus I,AHMAD AHMAD,rmarsliz,rmarsliz@kfupm.edu.sa,UTR,0900-0950,63-331
+MATH101,24,LEC,10734,Calculus I,J AL-SMAIL,jamalhas,jamalhas@kfupm.edu.sa,UTR,1000-1050,24-135
+MATH101,24,REC,10734,Calculus I,J AL-SMAIL,jamalhas,jamalhas@kfupm.edu.sa,W,1000-1050,59-1014
+MATH101,25,LEC,12461,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,UTR,1000-1050,63-229
+MATH101,25,REC,12461,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,M,1100-1150,63-226
+MATH101,26,LEC,11142,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,UTR,1000-1050,63-229
+MATH101,26,REC,11142,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,M,1300-1350,59-1009
+MATH101,27,LEC,12459,Calculus I,AHMAD AHMAD,rmarsliz,rmarsliz@kfupm.edu.sa,UTR,1000-1050,63-229
+MATH101,27,REC,12459,Calculus I,RACHID MARSLI,rmarsliz,rmarsliz@kfupm.edu.sa,M,1200-1250,6-105
+MATH101,28,REC,10738,Calculus I,K FURATI,kmfurati,kmfurati@kfupm.edu.sa,R,1000-1050,59-1015
+MATH101,28,LEC,10738,Calculus I,K FURATI,kmfurati,kmfurati@kfupm.edu.sa,MW,1000-1115,59-1001
+MATH101,29,REC,10736,Calculus I,K FURATI,kmfurati,kmfurati@kfupm.edu.sa,R,1100-1150,59-1013
+MATH101,29,LEC,10736,Calculus I,SHAHBAZ JINNAH,shahbazahmad,shahbazahmad@kfupm.edu.sa,MW,1000-1115,59-1001
+MATH101,30,REC,12454,Calculus I,E ECHI,echi,echi@kfupm.edu.sa,R,1200-1250,59-1005
+MATH101,30,LEC,12454,Calculus I,E ECHI,echi,echi@kfupm.edu.sa,MW,1000-1115,59-2003
+MATH101,31,REC,14802,Calculus I,A ELGHANMI,aelghanmi,aelghanmi@kfupm.edu.sa,W,1200-1250,59-1015
+MATH101,31,LEC,14802,Calculus I,A ELGHANMI,aelghanmi,aelghanmi@kfupm.edu.sa,UTR,1200-1250,59-1015
+MATH101,32,REC,14803,Calculus I,JAMILU HASHIM HASSAN,jamiluhashim.hassan,jamiluhashim.hassan@kfupm.edu.sa,W,1000-1050,63-137
+MATH101,32,LEC,14803,Calculus I,JAMILU HASHIM HASSAN,jamiluhashim.hassan,jamiluhashim.hassan@kfupm.edu.sa,UTR,1000-1050,63-123
+MATH101,33,REC,14804,Calculus I,A ELGHANMI,aelghanmi,aelghanmi@kfupm.edu.sa,W,0900-0950,6-163
+MATH101,33,LEC,14804,Calculus I,A ELGHANMI,aelghanmi,aelghanmi@kfupm.edu.sa,UTR,0900-0950,6-163
+MATH101,34,LEC,14805,Calculus I,S KABBAJ,kabbaj,kabbaj@kfupm.edu.sa,MW,0830-0945,59-2003
+MATH101,34,REC,14805,Calculus I,S KABBAJ,kabbaj,kabbaj@kfupm.edu.sa,R,0800-0850,59-1009
+MATH101,35,REC,14983,Calculus I,NASEER-EDDINE TATAR,tatarn,tatarn@kfupm.edu.sa,R,0900-0950,59-1017
+MATH101,35,LEC,14983,Calculus I,NASEER-EDDINE TATAR,tatarn,tatarn@kfupm.edu.sa,MW,0830-0945,59-1017
+MATH101,36,LEC,14984,Calculus I,BERIMI SAID,berrimi,berrimi@kfupm.edu.sa,UTR,1200-1250,59-2018
+MATH101,36,REC,14984,Calculus I,BERIMI SAID,berrimi,berrimi@kfupm.edu.sa,W,1100-1150,59-1005
+MATH101,37,REC,14985,Calculus I,JAMILU HASHIM HASSAN,jamiluhashim.hassan,jamiluhashim.hassan@kfupm.edu.sa,W,1100-1150,59-1009
+MATH101,37,LEC,14985,Calculus I,JAMILU HASHIM HASSAN,jamiluhashim.hassan,jamiluhashim.hassan@kfupm.edu.sa,UTR,1000-1050,59-2002
+MATH101,38,LEC,14986,Calculus I,BERIMI SAID,berrimi,berrimi@kfupm.edu.sa,UTR,1000-1050,59-2003
+MATH101,38,REC,14986,Calculus I,AHMAD AHMAD,mugbil,mugbil@kfupm.edu.sa,M,1100-1150,59-1005
+MATH102,1,REC,11309,Calculus II,MUHAMMAD QURESHI,imran.qureshi,imran.qureshi@kfupm.edu.sa,M,0800-0850,63-223
+MATH102,1,LEC,11309,Calculus II,MUHAMMAD QURESHI,imran.qureshi,imran.qureshi@kfupm.edu.sa,UTR,0800-0850,7-121
+MATH102,3,LEC,10931,Calculus II,IBRAHIM SARUMI,isarumi,isarumi@kfupm.edu.sa,UTR,1000-1050,59-1005
+MATH102,3,REC,10931,Calculus II,MUHAMMAD QURESHI,imran.qureshi,imran.qureshi@kfupm.edu.sa,M,1000-1050,63-227
+MATH102,5,REC,10742,Calculus II,MUHAMMAD QURESHI,imran.qureshi,imran.qureshi@kfupm.edu.sa,M,1200-1250,59-1015
+MATH102,5,LEC,10742,Calculus II,MUHAMMAD QURESHI,imran.qureshi,imran.qureshi@kfupm.edu.sa,UTR,0800-0850,7-121
+MATH102,6,REC,10739,Calculus II,IBRAHIM SARUMI,isarumi,isarumi@kfupm.edu.sa,W,0700-0750,63-229
+MATH102,6,LEC,10739,Calculus II,IBRAHIM SARUMI,isarumi,isarumi@kfupm.edu.sa,UTR,0700-0750,63-123
+MATH102,7,REC,10930,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,W,0800-0850,63-125
+MATH102,7,LEC,10930,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,UTR,0800-0850,63-362
+MATH102,8,REC,11269,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,W,0900-0950,63-226
+MATH102,8,LEC,11269,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,UTR,0800-0850,63-362
+MATH102,9,REC,10740,Calculus II,MUHAMMAD BUTT,munir.butt,munir.butt@kfupm.edu.sa,M,1000-1050,59-2002
+MATH102,9,LEC,10740,Calculus II,MUHAMMAD BUTT,munir.butt,munir.butt@kfupm.edu.sa,UTR,1100-1150,63-229
+MATH102,10,REC,12471,Calculus II,MUHAMMAD BUTT,munir.butt,munir.butt@kfupm.edu.sa,M,1100-1150,6-103
+MATH102,10,LEC,12471,Calculus II,MUHAMMAD BUTT,munir.butt,munir.butt@kfupm.edu.sa,UTR,1100-1150,63-229
+MATH102,11,REC,12469,Calculus II,MUHAMMAD BUTT,munir.butt,munir.butt@kfupm.edu.sa,M,0900-0950,6-103
+MATH102,11,LEC,12469,Calculus II,AHMAD AHMAD,munir.butt,munir.butt@kfupm.edu.sa,UTR,1100-1150,63-229
+MATH102,12,REC,13652,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,W,1000-1050,59-1005
+MATH102,12,LEC,13652,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,UTR,0900-0950,63-362
+MATH102,13,LEC,10743,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,UTR,0900-0950,63-362
+MATH102,13,REC,10743,Calculus II,MOHSEN ALSHAHRANI,mohseng,mohseng@kfupm.edu.sa,W,1100-1150,63-227
+MATH105,1,LEC,13677,Finite Mathematics,MUSAWAR MALIK,mmalik,mmalik@kfupm.edu.sa,UTR,1000-1050,6-209
+MATH105,2,LEC,11103,Finite Mathematics,DHAKER KROUMI,dhaker.kroumi,dhaker.kroumi@kfupm.edu.sa,UTR,0800-0850,24-158
+MATH105,3,LEC,13678,Finite Mathematics,DHAKER KROUMI,dhaker.kroumi,dhaker.kroumi@kfupm.edu.sa,UTR,0900-0950,24-135
+MATH105,4,LEC,12474,Finite Mathematics,MUSAWAR MALIK,mmalik,mmalik@kfupm.edu.sa,UTR,1100-1150,6-105
+MATH106,1,LEC,14275,Applied Calculus,KAREEM ELGINDY,kareem.elgindy,kareem.elgindy@kfupm.edu.sa,UTR,1100-1150,6-211
+MATH106,2,LEC,14276,Applied Calculus,MOHAMMAD ABU-SBEIH,abusbeih,abusbeih@kfupm.edu.sa,UTR,1000-1050,6-101
+MATH201,1,LEC,10392,Calculus III,RAJAIE ALASSAR,alassar,alassar@kfupm.edu.sa,MW,1000-1115,59-2018
+MATH201,2,LEC,10395,Calculus III,RAJAIE ALASSAR,alassar,alassar@kfupm.edu.sa,MW,0830-0945,59-2021
+MATH201,3,LEC,10398,Calculus III,YAQOUB SHEHADEH,shehadeh,shehadeh@kfupm.edu.sa,UTR,1000-1050,59-2018
+MATH201,4,LEC,10397,Calculus III,B BELHAIZA,slimb,slimb@kfupm.edu.sa,UTR,1100-1150,59-2015
+MATH201,5,LEC,10404,Calculus III,TALEB ALKURDI,tsoalkurdi,tsoalkurdi@kfupm.edu.sa,UTR,1100-1150,63-226
+MATH201,6,LEC,10866,Calculus III,ABDUL RAHIM KHAN,arahim,arahim@kfupm.edu.sa,UTR,0700-0750,59-2002
+MATH201,7,LEC,10393,Calculus III,ABDUL RAHIM KHAN,arahim,arahim@kfupm.edu.sa,UTR,0800-0850,59-2011
+MATH201,8,LEC,10396,Calculus III,YAQOUB SHEHADEH,shehadeh,shehadeh@kfupm.edu.sa,UTR,0900-0950,7-116
+MATH201,9,LEC,10399,Calculus III,KHAIRUL SALEH,khairul,khairul@kfupm.edu.sa,UTR,1000-1050,6-257
+MATH201,10,LEC,10401,Calculus III,JAE-CHEAN JOO,jcjoo,jcjoo@kfupm.edu.sa,MW,1130-1245,63-125
+MATH201,11,LEC,11344,Calculus III,KHAIRUL SALEH,khairul,khairul@kfupm.edu.sa,UTR,0900-0950,6-106
+MATH201,12,LEC,10394,Calculus III,J ABUIHLAIL,abuhlail,abuhlail@kfupm.edu.sa,MW,1130-1245,59-2011
+MATH201,13,LEC,10405,Calculus III,ADEL KHALFALLAH,khelifa,khelifa@kfupm.edu.sa,MW,0830-0945,59-2024
+MATH201,14,LEC,10868,Calculus III,ADEL KHALFALLAH,khelifa,khelifa@kfupm.edu.sa,MW,1000-1115,59-2015
+MATH201,15,LEC,13681,Calculus III,TALEB ALKURDI,tsoalkurdi,tsoalkurdi@kfupm.edu.sa,UTR,1000-1050,63-132
+MATH201,16,LEC,12866,Calculus III,IBRAHIM AL-RASASI,irasasi,irasasi@kfupm.edu.sa,UTR,0800-0850,6-106
+MATH201,17,LEC,11263,Calculus III,IBRAHIM AL-RASASI,irasasi,irasasi@kfupm.edu.sa,UTR,0900-0950,6-257
+MATH201,18,LEC,10400,Calculus III,YAQOUB SHEHADEH,shehadeh,shehadeh@kfupm.edu.sa,UTR,1100-1150,59-1011
+MATH201,19,LEC,10402,Calculus III,RACHID HADDOU,rachid.aithaddou,rachid.aithaddou@kfupm.edu.sa,UTR,1100-1150,59-1005
+MATH201,20,LEC,13683,Calculus III,KHAIRUL SALEH,khairul,khairul@kfupm.edu.sa,UTR,1100-1150,6-106
+MATH201,21,LEC,10867,Calculus III,BRAHIM MEZERDI,brahim.mezerdi,brahim.mezerdi@kfupm.edu.sa,MW,0830-0945,59-2017
+MATH201,22,LEC,13689,Calculus III,BRAHIM MEZERDI,brahim.mezerdi,brahim.mezerdi@kfupm.edu.sa,MW,1130-1245,59-2002
+MATH201,23,LEC,13692,Calculus III,WALED AL-KHULAIFI,waled.alkhulaifi,waled.alkhulaifi@kfupm.edu.sa;,MW,0830-0945,59-2002
+MATH201,24,LEC,11272,Calculus III,YAQOUB SHEHADEH,shehadeh,shehadeh@kfupm.edu.sa,UTR,0700-0750,59-1005
+MATH201,25,LEC,10403,Calculus III,IBRAHIM AL-RASASI,irasasi,irasasi@kfupm.edu.sa,UTR,1000-1050,63-136
+MATH202,1,LEC,10870,Elements of Differential Equations,A BOKHARI,abokhari,abokhari@kfupm.edu.sa,UTR,0800-0850,63-135
+MATH202,2,LEC,10406,Elements of Differential Equations,A BOKHARI,abokhari,abokhari@kfupm.edu.sa,UTR,0900-0950,63-328
+MATH202,3,LEC,10407,Elements of Differential Equations,SHAHZAD SARWAR,shahzad.sarwar,shahzad.sarwar@kfupm.edu.sa,UTR,1000-1050,59-2017
+MATH202,4,LEC,10409,Elements of Differential Equations,SHAHZAD SARWAR,shahzad.sarwar,shahzad.sarwar@kfupm.edu.sa,UTR,1100-1150,59-2024
+MATH202,5,LEC,10410,Elements of Differential Equations,MUSTAPHA KASSEM,kassem,kassem@kfupm.edu.sa,UTR,1200-1250,63-225
+MATH202,6,LEC,13699,Elements of Differential Equations,S BOUBAKER,boubaker,boubaker@kfupm.edu.sa,UTR,0900-0950,59-2009
+MATH202,7,LEC,11274,Elements of Differential Equations,S BOUBAKER,boubaker,boubaker@kfupm.edu.sa,UTR,0800-0850,6-165
+MATH202,8,LEC,11345,Elements of Differential Equations,S BOUBAKER,boubaker,boubaker@kfupm.edu.sa,UTR,0900-0950,63-226
+MATH202,9,LEC,11264,Elements of Differential Equations,ABDULILAH KADRI,akadri,akadri@kfupm.edu.sa,UTR,1200-1250,6-106
+MATH202,10,LEC,11273,Elements of Differential Equations,AHMAD BONFOH,bonfoh,bonfoh@kfupm.edu.sa,UTR,0900-0950,59-2002
+MATH208,1,LEC,12485,Introduction to Differential Equations & Linear Algebra,ABDESLAM MIMOUNI,amimouni,amimouni@kfupm.edu.sa,UTR,0800-0850,59-2017
+MATH208,2,LEC,10898,Introduction to Differential Equations & Linear Algebra,ABDESLAM MIMOUNI,amimouni,amimouni@kfupm.edu.sa,UTR,0900-0950,59-1016
+MATH208,3,LEC,11275,Introduction to Differential Equations & Linear Algebra,ABDULILAH KADRI,akadri,akadri@kfupm.edu.sa,UTR,1000-1050,59-1009
+MATH208,4,LEC,11346,Introduction to Differential Equations & Linear Algebra,ABDULILAH KADRI,akadri,akadri@kfupm.edu.sa,UTR,1100-1150,59-2004
+MATH210,1,LEC,13734,Introduction to Sets and Structures,ABDALLAH LARADJI,alaradji,alaradji@kfupm.edu.sa,MW,1000-1115,59-2023
+MATH225,1,LEC,12013,Introduction to Linear Algebra,ABDALLAH LARADJI,alaradji,alaradji@kfupm.edu.sa,MW,0830-0945,59-1014
+MATH302,1,LEC,13756,Engineering Mathematics,MOHAMMAD KAFINI,mkafini,mkafini@kfupm.edu.sa,UTR,0800-0850,63-223
+MATH302,2,LEC,10414,Engineering Mathematics,MOHAMMAD KAFINI,mkafini,mkafini@kfupm.edu.sa,UTR,0900-0950,63-326
+MATH325,1,LEC,12475,Linear Algebra,E ECHI,echi,echi@kfupm.edu.sa,MW,1130-1245,59-2003
+MATH333,1,LEC,13743,Methods of Applied Mathematics I,IZHAR AHMAD,drizhar,drizhar@kfupm.edu.sa,UTR,0800-0850,59-2022
+MATH333,2,LEC,10411,Methods of Applied Mathematics I,MOHAMMAD KAFINI,mkafini,mkafini@kfupm.edu.sa,UTR,0700-0750,59-1007
+MATH333,3,LEC,10413,Methods of Applied Mathematics I,M YOUSUF,myousuf,myousuf@kfupm.edu.sa,MW,1000-1115,63-139
+MATH333,4,LEC,11276,Methods of Applied Mathematics I,M YOUSUF,myousuf,myousuf@kfupm.edu.sa,MW,0830-0945,63-129
+MATH341,1,LEC,11163,Advanced Calculus I,TALEB ALKURDI,tsoalkurdi,tsoalkurdi@kfupm.edu.sa,UTR,0800-0850,59-2015
+MATH371,1,LEC,11348,Introduction to Numerical Computing,FAISAL FAIRAG,ffairag ,ffairag @kfupm.edu.sa,MW,1000-1115,63-124
+MATH371,2,LEC,14277,Introduction to Numerical Computing,FAISAL FAIRAG,ffairag ,ffairag @kfupm.edu.sa,MW,0830-0945,63-123
+MATH371,3,LEC,14278,Introduction to Numerical Computing,SULIMAN AL-HOMAIDAN,homidan,homidan@kfupm.edu.sa,MW,1130-1245,63-139
+MATH405,1,LEC,14850,Learning from Data,B BELHAIZA,slimb,slimb@kfupm.edu.sa,UTR,1000-1050,59-1014
+MATH451,1,LEC,12669,Differentia Geometry,JAE-CHEAN JOO,jcjoo,jcjoo@kfupm.edu.sa,MW,1000-1115,63-125
+MATH490,1,SEM,12026,Seminar in Mathematics,ABDUL RAHIM KHAN,arahim,arahim@kfupm.edu.sa,,-,-
+MATH503,1,LEC,14806,Mathematics for Data Science,ALI DUMAN,aliduman,aliduman@kfupm.edu.sa,UT,1740-1855,58-1045
+MATH503,2,LEC,14807,Mathematics for Data Science,JAAFAR AL-MUTAWA,jaafarm,jaafarm@kfupm.edu.sa,UT,1740-1855,58-1037
+MATH506,1,LEC,14808,Fundamentals of Data Science,AHMET TATAR,atatar,atatar@kfupm.edu.sa,MW,1740-1855,58-1045
+MATH506,2,LEC,14809,Fundamentals of Data Science,AHMET TATAR,atatar,atatar@kfupm.edu.sa,MW,1905-2020,58-1037
+MATH513,1,LEC,10416,Mathematical Methods for Engineers,KAREEM ELGINDY,kareem.elgindy,kareem.elgindy@kfupm.edu.sa,UT,1720-1835,63-223
+MATH531,F01,LEC,14287,Real Analysis,MONTHER ALFURAIDAN,monther,monther@kfupm.edu.sa,MW,1200-1315,61-201
+MATH550,F01,LEC,14288,Linear Algebra,MANAL ALOTIBI,manal.alotibi,manal.alotibi@kfupm.edu.sa,UT,1300-1415,42-213
+MATH557,1,LEC,14810,Applied Linear Algebra,J AL-SMAIL,jamalhas,jamalhas@kfupm.edu.sa,UT,1825-1940,58-1048
+MATH560,1,LEC,13797,Applied Regression and Experimental Design,MUHAMMAD RIAZ,riazm,riazm@kfupm.edu.sa,UT,1400-1515,63-227
+MATH565,F01,LEC,14568,Adv Ord Differen Equations I,AHMAD BONFOH,bonfoh,bonfoh@kfupm.edu.sa,UT,1130-1245,61-201
+MATH566,F01,LEC,14569,Fractional Differential Eq.,NASEER-EDDINE TATAR,tatarn,tatarn@kfupm.edu.sa,MW,1000-1115,61-208
+MATH568,F01,LEC,14570,Adv Partial Differn Equatins I,JAE-CHEAN JOO,jcjoo,jcjoo@kfupm.edu.sa,MW,1330-1445,61-208
+MATH570,1,LEC,14935,Lin & Abst Algebra & Num Thry,J ABUIHLAIL,abuhlail,abuhlail@kfupm.edu.sa,MW,1825-1940,58-1053
+MATH571,F01,LEC,14298,Num Anal Ord Diff Equations,MANAL ALOTIBI,manal.alotibi,manal.alotibi@kfupm.edu.sa,UT,1430-1545,42-223
+MATH576,1,LEC,14811,Applied Numerical Methods I,RACHID HADDOU,rachid.aithaddou,rachid.aithaddou@kfupm.edu.sa,UT,1700-1815,58-1048
+MATH578,1,LEC,14931,Applied Numerical Methods II,MUSTAPHA KASSEM,kassem,kassem@kfupm.edu.sa,UT,1700-1815,58-1051
+MATH580,F01,LEC,14571,Convex Analysis,IZHAR AHMAD,drizhar,drizhar@kfupm.edu.sa,UT,1000-1115,61-208
+MATH595,F01,IND,14588,Reading & Research I,AHMET TATAR,atatar,atatar@kfupm.edu.sa,,-,-
+MATH595,F03,IND,15022,Reading & Research I,A BOKHARI,abokhari,abokhari@kfupm.edu.sa,,-,-
+MATH599,1,SEM,10667,Seminar,ABDUL RAHIM KHAN,arahim,arahim@kfupm.edu.sa,,-,-
+MATH599,F02,SEM,14702,Seminar,ABDUL RAHIM KHAN,arahim,arahim@kfupm.edu.sa,,-,-
+MATH610,1,THS,14457,M.S. Thesis,M AL-SHAHRANI,mshahrani,mshahrani@kfupm.edu.sa,,-,-
+MATH610,2,THS,14461,M.S. Thesis,JAAFAR AL-MUTAWA,jaafarm,jaafarm@kfupm.edu.sa,,-,-
+MATH610,3,THS,14531,M.S. Thesis,AHMAD BONFOH,bonfoh,bonfoh@kfupm.edu.sa,,-,-
+MATH610,4,THS,15080,M.S. Thesis,JAE-CHEAN JOO,jcjoo,jcjoo@kfupm.edu.sa,,-,-
+MATH642,F01,LEC,14290,Cntrl/Stablty Linear Systems,JAAFAR AL-MUTAWA,jaafarm,jaafarm@kfupm.edu.sa,MW,1500-1615,42-313
+MATH692,F01,LEC,14293,Special Topics in Mathematics: Numerical Optimization.,M AL-SHAHRANI,mshahrani,mshahrani@kfupm.edu.sa,UT,0830-0945,42-223
+MATH695,F01,IND,14603,Reading & Research I,IZHAR AHMAD,drizhar,drizhar@kfupm.edu.sa,,-,-
+MATH712,1,DIS,14434,PhD. Dissertation,NASEER-EDDINE TATAR,tatarn,tatarn@kfupm.edu.sa,,-,-
+MATH712,2,DIS,14456,PhD. Dissertation,MUSTAPHA KASSEM,kassem,kassem@kfupm.edu.sa,,-,-
+MATH712,3,DIS,14929,PhD. Dissertation,K FURATI,kmfurati,kmfurati@kfupm.edu.sa,,-,-
+STAT201,1,LAB,11890,Introduction to Statistics,MUSAWAR MALIK,mmalik,mmalik@kfupm.edu.sa,U,0800-0950,5-202
+STAT201,1,LEC,11890,Introduction to Statistics,MUSAWAR MALIK,mmalik,mmalik@kfupm.edu.sa,TR,0800-0850,6-101
+STAT211,1,LEC,10633,Statistics for Business I,EMMANUEL AFUECHETA,emmanuel.afuecheta,emmanuel.afuecheta@kfupm.edu.sa,UTR,1200-1250,24-165
+STAT211,2,LEC,10634,Statistics for Business I,MOHAMMED SALEH,mohfarah,mohfarah@kfupm.edu.sa,UTR,0900-0950,6-103
+STAT211,3,LEC,12826,Statistics for Business I,MOHAMMED SALEH,mohfarah,mohfarah@kfupm.edu.sa,UTR,1000-1050,6-103
+STAT211,4,LEC,13782,Statistics for Business I,NASIR ABBAS,nasirabbas,nasirabbas@kfupm.edu.sa,UTR,1100-1150,24-156
+STAT212,1,LEC,13784,Statistics for Business II,E. AL-SAWI,alsawies,alsawies@kfupm.edu.sa,UTR,1000-1050,6-106
+STAT212,2,LEC,13785,Statistics for Business II,E. AL-SAWI,alsawies,alsawies@kfupm.edu.sa,UTR,1100-1150,6-258
+STAT212,3,LEC,10636,Statistics for Business II,R. ANABOSI,anabosir,anabosir@kfupm.edu.sa,UTR,0900-0950,59-1015
+STAT214,1,LEC,14297,Stat. Methods for Actuaries,MUHAMMAD RIAZ,riazm,riazm@kfupm.edu.sa,UTR,1000-1050,6-100
+STAT214,1,LAB,14297,Stat. Methods for Actuaries,MUHAMMAD RIAZ,riazm,riazm@kfupm.edu.sa,W,1000-1150,5-
+STAT302,1,LEC,13788,Statistical Inference,EMMANUEL AFUECHETA,emmanuel.afuecheta,emmanuel.afuecheta@kfupm.edu.sa,UTR,1100-1150,6-100
+STAT310,1,LEC,12477,Regression Analysis,E. AL-SAWI,alsawies,alsawies@kfupm.edu.sa,UTR,1200-1250,6-200
+STAT319,1,LEC,10787,Probability and Statistics for Engineers and Scientists,R. ANABOSI,anabosir,anabosir@kfupm.edu.sa,UTR,1200-1250,59-2011
+STAT319,2,LEC,10872,Probability and Statistics for Engineers and Scientists,MOHAMMED SALEH,mohfarah,mohfarah@kfupm.edu.sa,UTR,0800-0850,6-103
+STAT319,3,LEC,10873,Probability and Statistics for Engineers and Scientists,R. ANABOSI,anabosir,anabosir@kfupm.edu.sa,UTR,1000-1050,6-165
+STAT319,4,LEC,11277,Probability and Statistics for Engineers and Scientists,R. ANABOSI,anabosir,anabosir@kfupm.edu.sa,UTR,1100-1150,6-103
+STAT319,51,LAB,11896,Probability and Statistics for Engineers and Scientists,E. AL-SAWI,alsawies,alsawies@kfupm.edu.sa,M,1000-1150,5-101
+STAT319,52,LAB,11895,Probability and Statistics for Engineers and Scientists,E. AL-SAWI,alsawies,alsawies@kfupm.edu.sa,M,0800-0950,5-101
+STAT319,53,LAB,11900,Probability and Statistics for Engineers and Scientists,MUSAWAR MALIK,mmalik,mmalik@kfupm.edu.sa,W,1000-1150,5-202
+STAT319,54,LAB,11898,Probability and Statistics for Engineers and Scientists,MUSAWAR MALIK,mmalik,mmalik@kfupm.edu.sa,W,0800-0950,5-202
+STAT416,1,LEC,12478,Stochastic Processes for Actuaries,DHAKER KROUMI,dhaker.kroumi,dhaker.kroumi@kfupm.edu.sa,UTR,1000-1050,7-201
+STAT503,1,LEC,14814,Probability & Stats for Data S,NASIR ABBAS,nasirabbas,nasirabbas@kfupm.edu.sa,UT,1905-2020,58-1045
